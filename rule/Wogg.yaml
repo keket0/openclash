@@ -14,7 +14,6 @@ payload:
   - DOMAIN-SUFFIX,wchenhong.cn
 
   # --- linux站 ----
-  - DOMAIN-SUFFIX,linux.do
   
   # --- TPTV (电视直播相关) ---
   - DOMAIN-SUFFIX,mobaibox.com
