@@ -515,6 +515,8 @@ rules:
 - RULE-SET,Proxy_Classical,默认代理
 - RULE-SET,Global_Classical,默认代理
 - RULE-SET,MyProxy_Replenish,默认代理
+- DOMAIN-SUFFIX,qmp4.com,默认代理
+- DOMAIN-SUFFIX,gmp4.com,默认代理
 - RULE-SET,ASN.China,国内流量
 - RULE-SET,ChinaMedia,国内流量
 - RULE-SET,ChinaIPsBGP_Classical,国内流量
