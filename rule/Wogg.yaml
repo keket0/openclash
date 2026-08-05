@@ -355,6 +355,14 @@ payload:
   - DOMAIN-SUFFIX,666291.xyz
   - DOMAIN-SUFFIX,goimg.asia
   - DOMAIN-SUFFIX,star2.cn
+  - DOMAIN-SUFFIX,qwmp4.com
+  - DOMAIN-SUFFIX,qwmkv.com
+  - DOMAIN-SUFFIX,qwfilm.com
+  - DOMAIN-SUFFIX,qwfun.com
+  - DOMAIN-SUFFIX,qwshow.com
+  - DOMAIN-SUFFIX,qnnull.com
+  - DOMAIN-SUFFIX,qnhot.com
+  - DOMAIN-SUFFIX,qncool.com
 
   # --- DOMAIN-KEYWORD 规则 ---
   - DOMAIN-KEYWORD,cjjd18
