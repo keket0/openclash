@@ -1,0 +1,4 @@
+payload:
+#自定义 Proxy
+  - DOMAIN-SUFFIX,qmp4.com
+  - DOMAIN-SUFFIX,gmp4.com
