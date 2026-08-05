@@ -354,6 +354,7 @@ payload:
   - DOMAIN-SUFFIX,188766.xyz
   - DOMAIN-SUFFIX,666291.xyz
   - DOMAIN-SUFFIX,goimg.asia
+  - DOMAIN-SUFFIX,star2.cn
 
   # --- DOMAIN-KEYWORD 规则 ---
   - DOMAIN-KEYWORD,cjjd18
