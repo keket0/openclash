@@ -40,6 +40,7 @@ payload:
   - DOMAIN-SUFFIX,iqiyis.com
   - DOMAIN-SUFFIX,istoreos.com
   - DOMAIN-SUFFIX,kelee.one
+  - DOMAIN-SUFFIX,yiyanz.cn            # 一言API
   - DOMAIN-SUFFIX,musicbrainz.org
   - DOMAIN-SUFFIX,ntp.org
   - DOMAIN-SUFFIX,oaifree.com
