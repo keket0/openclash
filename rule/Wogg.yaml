@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,alice.ws
   - DOMAIN-SUFFIX,605579.xyz
   - DOMAIN-SUFFIX,wchenhong.cn
+  - DOMAIN-SUFFIX,v2pan.com           # 盘搜站（CF拦截需直连）
 
   # --- linux站 ----
   
