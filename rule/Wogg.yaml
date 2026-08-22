@@ -83,17 +83,6 @@ payload:
   - DOMAIN-SUFFIX,ikzybf.com
   - DOMAIN-SUFFIX,bfikuncdn.com
 
-  # --- 音乐域名 (直连) ---
-  - DOMAIN-SUFFIX,163.com
-  - DOMAIN-SUFFIX,126.net
-  - DOMAIN-SUFFIX,kugou.com
-  - DOMAIN-SUFFIX,kuwo.cn
-  - DOMAIN-SUFFIX,migu.cn
-  - DOMAIN-SUFFIX,qq.com
-  - DOMAIN-SUFFIX,qishui.com
-  - DOMAIN-SUFFIX,douyin.com
-  - DOMAIN-SUFFIX,gtimg.cn
-
   - DOMAIN-SUFFIX,www.douyin.com
   - DOMAIN-SUFFIX,wogg.link
   - DOMAIN-SUFFIX,wogg.bf
