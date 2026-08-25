@@ -388,3 +388,25 @@ payload:
   - DOMAIN-KEYWORD,yunpan
   - DOMAIN-KEYWORD,muouso
   - DOMAIN-KEYWORD,muou
+
+  # --- 音乐平台直连 (2026-08-25) ---
+  - DOMAIN-SUFFIX,music.163.com
+  - DOMAIN-SUFFIX,interface.music.163.com
+  - DOMAIN-SUFFIX,interface3.music.163.com
+  - DOMAIN-SUFFIX,music.126.net
+  - DOMAIN-SUFFIX,p1.music.126.net
+  - DOMAIN-SUFFIX,p2.music.126.net
+  - DOMAIN-SUFFIX,p3.music.126.net
+  - DOMAIN-SUFFIX,p4.music.126.net
+  - DOMAIN-SUFFIX,y.qq.com
+  - DOMAIN-SUFFIX,c.y.qq.com
+  - DOMAIN-SUFFIX,gtimg.com
+  - DOMAIN-SUFFIX,kugou.com
+  - DOMAIN-SUFFIX,m.kugou.com
+  - DOMAIN-SUFFIX,kuwo.cn
+  - DOMAIN-SUFFIX,migu.cn
+  - DOMAIN-SUFFIX,jadeite.migu.cn
+  - DOMAIN-SUFFIX,pd.musicapp.migu.cn
+  - DOMAIN-SUFFIX,app.c.nf.migu.cn
+  - DOMAIN-SUFFIX,qishui.com
+  - DOMAIN-SUFFIX,api.qishui.com
