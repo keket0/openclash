@@ -32,6 +32,7 @@ payload:
   - DOMAIN-SUFFIX,ottrrs.hl.chinamobile.com
 
   # --- 常规 DOMAIN-SUFFIX 规则 ---
+  - DOMAIN-SUFFIX,fqnovel.com         # 番茄小说API(api5-normal-sinfonlinea等)
   - DOMAIN-SUFFIX,apple-dns.cn
   - DOMAIN-SUFFIX,archive.org
   - DOMAIN-SUFFIX,coverartarchive.org
