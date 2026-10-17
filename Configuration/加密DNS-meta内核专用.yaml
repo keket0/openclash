@@ -237,6 +237,8 @@ proxy-groups:
 # 远程规则集
 rule-providers:
   Wogg:                    {<<: *pcy, url: https://raw.githubusercontent.com/keket0/openclash/refs/heads/keket/rule/Wogg.yaml}
+  # 央视/央视频 直连（garysclub ysp.list, Surge规则集→classical/text）
+  YSP_Direct:              {<<: *pct, url: https://garysclub.sharewithyou.dpdns.org/ysp-live/ysp.list}
   BanEasyList:             {<<: *pcy, url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Providers/BanEasyList.yaml}
   BanEasyPrivacy:          {<<: *pcy, url: https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Providers/BanEasyPrivacy.yaml}
   OpenAI:                  {<<: *pcy, url: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/OpenAI/OpenAI_No_Resolve.yaml}
@@ -324,6 +326,8 @@ rules:
   - RULE-SET,category-public-tracker,REJECT-DROP
     # 常用工具进程直连
   - RULE-SET,DirectProcess,国内网站
+  # 央视/央视频 直连（YSP_Direct）
+  - RULE-SET,YSP_Direct,国内网站
   # 以下规则需要台湾线路
   ## TV直播
   - RULE-SET,TV_Hongkong,香港策略
